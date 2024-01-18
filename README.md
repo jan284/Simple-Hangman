@@ -1,4 +1,4 @@
-# Simple Hangman Edit
+# Simple Hangman
 
 ## Description
 
