@@ -20,6 +20,7 @@ def guess_letters(word, placeholder):
     :param placeholder: list of underscores representing word
     :type placeholder: list
     """
+
     # Initialize number of guesses to increment each time an new incorrect guess is made
     num_guesses = 0
     # Create empty list to store guessed letters

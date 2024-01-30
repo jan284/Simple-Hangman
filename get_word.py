@@ -15,6 +15,7 @@ def get_word():
     Opens the dictionary and picks a word
     :return: random word
     """
+
     # Open dictionary and grab a random word
     dictionary = get_filehandle("dictionary.txt")
     words = dictionary.readlines()
